@@ -1,0 +1,47 @@
+.half-width{
+    width: 50%;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+button{
+    padding: 10px 20px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+}
+.one-third{
+    width: 32%;
+}
+.one-third img{
+    width: 100%;
+    border-radius: 20px;
+}
+.one-third h3{
+    text-align: center;
+}
+.left-right-margin{
+    margin: 0 2%;
+}
+footer{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    line-height: 50px;
+    background-color: black;
+}
+nav a{
+    margin-right: 30px;
+    text-decoration: none;
+    padding: 17px;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
